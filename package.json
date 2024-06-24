@@ -11,8 +11,7 @@
   },
   "homepage": "",
   "dependencies": {
-    "gh-pages": "^5.0.0",
-    "gsap": "npm:@gsap/shockingly@^3.12.5"
+    "gh-pages": "^5.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.21.0",
